@@ -4,6 +4,4 @@ A data visualization project to visualize effects of different factors on life e
 
 Demonstration video: [video link](https://youtu.be/NgCB6dTatKg)
 
-[Detailed report](technical-report-wang-anyi.pdf)
-
 Skills involved: Bokeh, Plotly, Geospatial visualisation, time series visualisation, Scipy, Matplotlib
